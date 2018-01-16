@@ -115,7 +115,7 @@ Including a theme is **required** to apply all of the core and theme styles to y
 To get started with a prebuilt theme, include one of Angular Material's prebuilt themes globally
 in your application. If you're using the Angular CLI, you can add this to your `styles.css`:
 ```css
-@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "@angular/material/prebuilt-themes/indigo-pink.css";
 ```
 
 If you are not using the Angular CLI, you can include a prebuilt theme via a `<link>` element in
